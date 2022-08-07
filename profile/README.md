@@ -5,3 +5,6 @@ A platform for building location-based systems
 * Reliable and High Performance GIS Solutions and Location Based Services
 * Optimization Components and Processing Modules based on Artificial Intelligence algorithms
 * Customized GIS Based Application in Various Domains
+
+This respositories at here is published in npm as a package to use the services there is need to have token that be done by following link.
+[Request Token](https://accounts.parsimap.ir/request-token)
