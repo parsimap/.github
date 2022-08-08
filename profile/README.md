@@ -6,5 +6,5 @@ A platform for building location-based systems
 * Optimization Components and Processing Modules based on Artificial Intelligence algorithms
 * Customized GIS Based Application in Various Domains
 
-This respositories are published on the npm as a package, furthermore to use services there is need to have token that can be done by following link.
-[Request Token](https://accounts.parsimap.ir/request-token)
+These repositories were published on the NPM as a package, furthermore, to use services there is a need to have a valid token.
+By clicking on the [request token](https://account.parsimap.ir/token-registration) and following the guide there or sending the essential data such as type of use by company or business email, the process of generating token starting and after a while that will be sent to the provided email.
